@@ -1,0 +1,8 @@
+#word-tooltip {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+    max-width: 300px;
+    word-wrap: break-word;
+  }
+  
